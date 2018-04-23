@@ -1,7 +1,6 @@
 import {
-  APPD_RECIPE,
-  REMOVE_FROM_CALENDAR,
-  ADD_RECIPE
+  ADD_RECIPE,
+  REMOVE_FROM_CALENDAR
 } from '../actions'
 
 const initialCalendarState = {
